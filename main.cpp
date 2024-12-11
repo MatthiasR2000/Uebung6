@@ -88,7 +88,6 @@ int wieOftStringInArray(string stringArray[], int length, string wort) {//Aufgab
 }
 
 int zahlenGroesserAlsImAnderenArray(int numberArray1[], int numberArray2[], int length1, int length2) {//Aufgabe f
-    //zahlen im array 2 die größer als alle zahlen im array
     int counterAußen = 0;
     for (int i = 0; i < length2; i++) {
         int counterInnen = 0;
